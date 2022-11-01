@@ -17,7 +17,7 @@ for (int i = 1; i <= kolom; i++){
     if (j % 2 == 1){
       cout << "x ";
     }
-    else {
+    else{
       cout << "o ";
     }
   }
